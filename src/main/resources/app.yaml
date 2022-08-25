@@ -1,4 +1,4 @@
 db:
-  url: jdbc:postgresql://aurora-db-postgres10-us-west-2.cluster-cluyjfvmewso.us-west-2.rds.amazonaws.com/qa_lanehealth
-  user: root
-  password: ZsE6UURuEYvQKfKDnY6H
+  url: jdbc:postgresql://url
+  user: user
+  password: pass
